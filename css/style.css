@@ -47,7 +47,7 @@
 }
 
 .logo {
-padding-right: 9.3rem;
+  padding-right: 9.3rem;
 }
 
 .menu-item-wrapper {
@@ -180,4 +180,21 @@ padding-right: 4.7rem;
 
 .blue-button:active {
   background: #0A4BB3;
+}
+
+.about-termovait-wrapper {
+  display: flex;
+  padding-top: 3rem;
+}
+
+.feedback {
+
+}
+
+.name-termovait-feedback {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 100%;
+  color: var(--chernyy);
 }
